@@ -1,0 +1,14 @@
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\bin\Debug\netcoreapp2.1\BlackJackService.deps.json
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\bin\Debug\netcoreapp2.1\BlackJackService.runtimeconfig.json
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\bin\Debug\netcoreapp2.1\BlackJackService.runtimeconfig.dev.json
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\bin\Debug\netcoreapp2.1\BlackJackService.dll
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\bin\Debug\netcoreapp2.1\BlackJackService.pdb
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\obj\Debug\netcoreapp2.1\BlackJackService.csprojResolveAssemblyReference.cache
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\obj\Debug\netcoreapp2.1\BlackJackService.csproj.CoreCompileInputs.cache
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\obj\Debug\netcoreapp2.1\BlackJackService.RazorAssemblyInfo.cache
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\obj\Debug\netcoreapp2.1\BlackJackService.RazorAssemblyInfo.cs
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\obj\Debug\netcoreapp2.1\BlackJackService.AssemblyInfoInputs.cache
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\obj\Debug\netcoreapp2.1\BlackJackService.AssemblyInfo.cs
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\obj\Debug\netcoreapp2.1\BlackJackService.RazorTargetAssemblyInfo.cache
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\obj\Debug\netcoreapp2.1\BlackJackService.dll
+D:\Assessment\BlackJack\BlackJackService\BlackJackService\obj\Debug\netcoreapp2.1\BlackJackService.pdb
